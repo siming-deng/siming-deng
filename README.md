@@ -1,17 +1,12 @@
-# Hi there 👋 I am Siming :grin:
+# Hi there 👋 I'm Siming :grin:
 
+Welcome to my GitHub Profile Page. I am a proud first-generation immigrant and a senior completing my Bachelor's of Business Administration at Bernard M. Baruch College majoring in Computer Information Systems - Data Analytics Track and minoring in mathematics.
 
-<!--
-**siming-deng/siming-deng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as an accounting and data analyst intern at Smart Design.
+- 🌱 I’m currently learning big data technologies (e.g. AWS, PySpark, and Hadoop), natural language processing, and machine learning models.
+- 👯 I’m looking to collaborate on data science projects and research.
+- 🤔 I’m looking for help with career advise and additional resources in data science.
+- 💬 Ask me about music, movies, book lists that interest you, etc.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/siming-deng/), [Gmail](simingdengcc@gmail.com)
+- ⚡ Fun fact: I speak four languages (Cantonese, Mandarin, Spanish, and English) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
