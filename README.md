@@ -7,6 +7,6 @@ Welcome to my GitHub Profile Page. I am a proud first-generation immigrant and a
 - 👯 I’m looking to collaborate on data science projects and research.
 - 🤔 I’m looking for help with career advise and additional resources in data science.
 - 💬 Ask me about music, movies, book lists that interest you, etc.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/siming-deng/), [Gmail](simingdengcc@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/siming-deng/), Gmail: simingdengcc@gmail.com
 - ⚡ Fun fact: I speak four languages (Cantonese, Mandarin, Spanish, and English) 
 
